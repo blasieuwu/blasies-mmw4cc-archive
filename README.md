@@ -20,16 +20,15 @@ As a result, Nanashi, the creator of Chart Cyanvas has made her repositories pri
 
 ---
 
-"As the official **officially** [stated to ban fanmade charts using official assets](https://x.com/pj_sekai/status/2048729214900461995) and they requested to delete existing videos, I've made **my repositories private, so these things became unavailable. This means you cannot download MMW4CC, play on Chart Cyanvas, and so on.**
+> "As the official **officially** [stated to ban fanmade charts using official assets](https://x.com/pj_sekai/status/2048729214900461995) and they requested to delete existing videos, I've made **my repositories private, so these things became unavailable. This means you cannot download MMW4CC, play on Chart Cyanvas, and so on.**
 - Chart Cyanvas Archive
 - Potato Leaves
 - MikuMikuWorld for Chart Cyanvas
 - Chart Cyanvas Source Code
 - Invites for Chart Cyanvas Discord server"
 
-"I've deleted my works on 2026/05/04 JST, which is a day before they starts to officially ban users.
-
-Thank you for playing on Chart Cyanvas, and my fanmade things."
+> "I've deleted my works on 2026/05/04 JST, which is a day before they starts to officially ban users.
+> Thank you for playing on Chart Cyanvas, and my fanmade things."
 
 ---
 
@@ -37,7 +36,7 @@ This became the reason why this repository was created: It was made to archive t
 
 Unfortunately, we, as the charting community, cannot do anything about this. **"Officials have the permissions to nuke everything, you know."**
 
-**Disclaimer: This repository is a community-maintained archival mirror for historical preservation. It is completely unaffiliated with the original creator (@sevenc_nanashi) or Project SEKAI officials.**
+> **Disclaimer: This repository is a community-maintained archival mirror for historical preservation. It is completely unaffiliated with the original creator (@sevenc_nanashi) or Project SEKAI officials.**
 
 ## Downloads
 
